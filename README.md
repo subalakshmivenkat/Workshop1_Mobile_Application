@@ -1,11 +1,11 @@
 # Workshop1_Mobile_Application
 ## AIM:
 To create a two screens , first screen will take name, age, contact number and email id from user. After click on submit button, second screen will open and it should display result using Explicit Intents.
+
 ## EQUIPMENTS REQUIRED:
-
 Latest Version Android Studio
-## ALGORITHM:
 
+## ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
 Step 2: Then type the Application name as “workshop″ and click Next.
@@ -253,6 +253,10 @@ AndroidManifest.xml:
 
 </manifest>
 ```
+
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/8c693532-e71a-4e58-aa4f-e5667c4d625c)
+![image](https://github.com/user-attachments/assets/97c3932f-92db-4fce-a1f6-e593aa92f623)
+
 ## RESULT:
 Thus a Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
